@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ConsultaIBGETest {
     private static final String ESTADOS_API_URL = "https://servicodados.ibge.gov.br/api/v1/localidades/estados/";
 
-
     @Test
     @DisplayName("Teste para consulta única de um estado")
     public void testConsultarEstado() throws IOException {
