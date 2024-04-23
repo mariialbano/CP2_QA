@@ -26,7 +26,8 @@ public class Main {
             System.out.println("\nEscolha uma opção:");
             System.out.println("1. Consultar informações de um estado");
             System.out.println("2. Consultar informações de um distrito");
-            System.out.println("3. Sair");
+            System.out.println("3. Consultar informações por ID");
+            System.out.println("4. Sair");
 
             System.out.print("Opção: ");
 
